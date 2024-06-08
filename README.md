@@ -24,29 +24,29 @@ The course is designed for beginners with no prior programming experience and co
 This repository is organized according to the structure of the course:
 
 ### 1.Programming for Everybody (Getting Started with Python)
-      Basic syntax
-      Variables and types
-      Conditional statements
-      Loops
+      -Basic syntax
+      -Variables and types
+      -Conditional statements
+      -Loops
   
 ### 2.Python Data Structures
-  -Lists
+                                                     -Lists
   -Dictionaries
   -Tuples
   -Files
 
 ### 3.Using Python to Access Web Data
-  -Reading web data
+                                                       -Reading web data
   -Web scraping
   -APIs
 
 ### 4.Using Databases with Python
-  -SQL basics
+                                            -SQL basics
   -SQLite
   -Database design
 
 ### 5.Capstone: Retrieving, Processing, and Visualizing Data with Python  
-  -Data retrieval
+                                                            -Data retrieval
   -Data processing
   -Data visualization
 
