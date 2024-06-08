@@ -46,9 +46,9 @@ This repository is organized according to the structure of the course:
     -Database design
 
 ### 5.Capstone: Retrieving, Processing, and Visualizing Data with Python  
-   -Data retrieval
-   -Data processing
-   -Data visualization
+    -Data retrieval
+    -Data processing
+    -Data visualization
 
 
 ## Installation
