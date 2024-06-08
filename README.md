@@ -23,11 +23,14 @@ The course is designed for beginners with no prior programming experience and co
 ## Course Structure
 This repository is organized according to the structure of the course:
 
-### 1. Programming for Everybody (Getting Started with Python)
-  Basic syntax
-  Variables and types
-  Conditional statements
-  Loops
+This repository is organized according to the structure of the course:
+
+### 1.Programming for Everybody (Getting Started with Python)
+
+Basic syntax
+Variables and types
+Conditional statements
+Loops
   
 ### 2.Python Data Structures
   -Lists
