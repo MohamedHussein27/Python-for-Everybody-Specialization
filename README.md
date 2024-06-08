@@ -30,25 +30,25 @@ This repository is organized according to the structure of the course:
     -Loops
   
 ### 2.Python Data Structures
-                                                     -Lists
-     -Dictionaries
-     -Tuples
-     -Files
+    -Lists
+    -Dictionaries
+    -Tuples
+    -Files
 
 ### 3.Using Python to Access Web Data
-                                                       -Reading web data
-  -Web scraping
-  -APIs
+    -Reading web data
+    -Web scraping
+    -APIs
 
 ### 4.Using Databases with Python
-                                            -SQL basics
-  -SQLite
-  -Database design
+    -SQL basics
+    -SQLite
+    -Database design
 
 ### 5.Capstone: Retrieving, Processing, and Visualizing Data with Python  
-                                                            -Data retrieval
-  -Data processing
-  -Data visualization
+   -Data retrieval
+   -Data processing
+   -Data visualization
 
 
 ## Installation
