@@ -73,6 +73,6 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ## Acknowledgements
 
-Dr. Charles Severance (Dr. Chuck) for creating the "Python for Everybody" course.
-The University of Michigan for offering the course on Coursera.
-The Coursera platform for providing access to quality education.
+  Dr. Charles Severance (Dr. Chuck) for creating the "Python for Everybody" course.
+  The University of Michigan for offering the course on Coursera.
+  The Coursera platform for providing access to quality education.
