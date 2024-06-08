@@ -69,7 +69,7 @@ Contributions are welcome! If you have any suggestions or improvements, feel fre
 
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/MohamedHussein27/Python-for-Everybody-Specialization/edit/main/LICENSE) file for more details.
 
 ## Acknowledgements
 
