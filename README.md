@@ -2,7 +2,7 @@
 
 
 Welcome to my "Python for Everybody" repository! 
-This repository contains all the code and exercises I complete as part of the Python for Everybody course on Coursera, designed by Dr. Charles Severance.
+This repository contains all the code and exercises I complete as part of the [Python for Everybody course](https://www.coursera.org/specializations/python) on Coursera, designed by Dr. Charles Severance.
 
 ## Table of Contents
   Course Overview
