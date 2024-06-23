@@ -1,0 +1,6 @@
+fname = input("Enter file name: ")
+opened = open(fname)
+inp = opened.read()
+inp = inp.rstrip()
+capital = inp.upper()
+print(capital)
