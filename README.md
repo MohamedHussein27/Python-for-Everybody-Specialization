@@ -23,7 +23,7 @@ The course is designed for beginners with no prior programming experience and co
 ## Course Structure
 This repository is organized according to the structure of the course:
 
-### 1.Programming for Everybody (Getting Started with Python)
+### 1.[Programming for Everybody (Getting Started with Python)](https://www.coursera.org/learn/python?specialization=python)
     -Basic syntax
     -Variables and types
     -Conditional statements
