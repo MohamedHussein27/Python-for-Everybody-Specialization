@@ -76,3 +76,8 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
     Dr. Charles Severance (Dr. Chuck) for creating the "Python for Everybody" course.
     The University of Michigan for offering the course on Coursera.
     The Coursera platform for providing access to quality education.
+
+## Contact Me!
+- [Email](mailto:Mohamed_Hussein2100924@outlook.com)
+- [WhatsApp](https://wa.me/+2001097685797)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-hussein-274337231)
