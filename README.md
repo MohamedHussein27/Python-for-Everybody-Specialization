@@ -29,7 +29,7 @@ This repository is organized according to the structure of the course:
     -Conditional statements
     -Loops
   
-### 2.Python Data Structures
+### 2.[Python Data Structures](https://www.coursera.org/learn/python-data?specialization=python)
     -Lists
     -Dictionaries
     -Tuples
