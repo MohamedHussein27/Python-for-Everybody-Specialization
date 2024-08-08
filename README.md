@@ -35,17 +35,17 @@ This repository is organized according to the structure of the course:
     -Tuples
     -Files
 
-### 3.Using Python to Access Web Data
+### 3.[Using Python to Access Web Data](https://www.coursera.org/learn/python-network-data?specialization=python)
     -Reading web data
     -Web scraping
     -APIs
 
-### 4.Using Databases with Python
+### 4.[Using Databases with Python](https://www.coursera.org/learn/python-databases?specialization=python)
     -SQL basics
     -SQLite
     -Database design
 
-### 5.Capstone: Retrieving, Processing, and Visualizing Data with Python  
+### 5.[Capstone: Retrieving, Processing, and Visualizing Data with Python]((https://www.coursera.org/learn/python-data-visualization?specialization=python)  
     -Data retrieval
     -Data processing
     -Data visualization
