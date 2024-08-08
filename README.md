@@ -45,7 +45,7 @@ This repository is organized according to the structure of the course:
     -SQLite
     -Database design
 
-### 5.[Capstone: Retrieving, Processing, and Visualizing Data with Python]((https://www.coursera.org/learn/python-data-visualization?specialization=python)  
+### 5.[Capstone: Retrieving, Processing, and Visualizing Data with Python](https://www.coursera.org/learn/python-data-visualization?specialization=python)  
     -Data retrieval
     -Data processing
     -Data visualization
